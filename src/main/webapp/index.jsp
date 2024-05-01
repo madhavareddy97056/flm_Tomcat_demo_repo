@@ -11,7 +11,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">Madhava Reddy</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">FROM HYD</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">Thanks</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">Regards</h1>
 	
 	
 	
